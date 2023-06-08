@@ -1,2 +1,9 @@
-# TallerJoelOrtega_a
-Taller de entorno de desarrollo
+# Taller Nro. 1 Entorno de desarrollo 
+- Nombre: Joel Ortega
+
+## Descripcion 
+
+## Funcionamiento
+![](img/ssd.jpg)
+
+
