@@ -5,5 +5,3 @@
 
 ## Funcionamiento
 ![](img/ssd.jpg)
-
-
